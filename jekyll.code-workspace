@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../workspaces/jekyll"
+		},
+		{
+			"name": "kennetek.github.io",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
